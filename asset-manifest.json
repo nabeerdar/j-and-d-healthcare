@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/j-and-d-healthcare/static/css/main.445826d5.css",
-    "main.js": "/j-and-d-healthcare/static/js/main.97cc9b76.js",
-    "static/js/453.b28d7402.chunk.js": "/j-and-d-healthcare/static/js/453.b28d7402.chunk.js",
-    "static/media/background1.jpg": "/j-and-d-healthcare/static/media/background1.74cfcc147ba33a8fffac.jpg",
-    "static/media/your-nurses-image.jpg": "/j-and-d-healthcare/static/media/your-nurses-image.5d3c82de4dad3c48d62c.jpg",
-    "static/media/center-image.jpg": "/j-and-d-healthcare/static/media/center-image.6d5aaa5c032fcfa2d0bd.jpg",
-    "static/media/nurse1.jpg": "/j-and-d-healthcare/static/media/nurse1.e126d9335e0e9f180331.jpg",
-    "static/media/nurse2.jpg": "/j-and-d-healthcare/static/media/nurse2.3342429116bd749cc4c0.jpg",
-    "static/media/medical-nurse.jpg": "/j-and-d-healthcare/static/media/medical-nurse.37b94b87a42ec6ef8c0e.jpg",
-    "static/media/arrow-right.png": "/j-and-d-healthcare/static/media/arrow-right.ca647dfc0fd031db38a7.png",
-    "index.html": "/j-and-d-healthcare/index.html",
-    "main.445826d5.css.map": "/j-and-d-healthcare/static/css/main.445826d5.css.map",
-    "main.97cc9b76.js.map": "/j-and-d-healthcare/static/js/main.97cc9b76.js.map",
-    "453.b28d7402.chunk.js.map": "/j-and-d-healthcare/static/js/453.b28d7402.chunk.js.map"
+    "main.css": "/static/css/main.5cda8b6d.css",
+    "main.js": "/static/js/main.229e132d.js",
+    "static/js/453.b28d7402.chunk.js": "/static/js/453.b28d7402.chunk.js",
+    "static/media/background1.jpg": "/static/media/background1.74cfcc147ba33a8fffac.jpg",
+    "static/media/your-nurses-image.jpg": "/static/media/your-nurses-image.5d3c82de4dad3c48d62c.jpg",
+    "static/media/center-image.jpg": "/static/media/center-image.6d5aaa5c032fcfa2d0bd.jpg",
+    "static/media/nurse1.jpg": "/static/media/nurse1.e126d9335e0e9f180331.jpg",
+    "static/media/nurse2.jpg": "/static/media/nurse2.3342429116bd749cc4c0.jpg",
+    "static/media/medical-nurse.jpg": "/static/media/medical-nurse.37b94b87a42ec6ef8c0e.jpg",
+    "static/media/arrow-right.png": "/static/media/arrow-right.ca647dfc0fd031db38a7.png",
+    "index.html": "/index.html",
+    "main.5cda8b6d.css.map": "/static/css/main.5cda8b6d.css.map",
+    "main.229e132d.js.map": "/static/js/main.229e132d.js.map",
+    "453.b28d7402.chunk.js.map": "/static/js/453.b28d7402.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.445826d5.css",
-    "static/js/main.97cc9b76.js"
+    "static/css/main.5cda8b6d.css",
+    "static/js/main.229e132d.js"
   ]
 }
