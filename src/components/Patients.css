@@ -1,0 +1,100 @@
+.patients-section {
+    padding: 30px;
+    background: linear-gradient(to bottom, #e0f7ff, #ffffff); /* Light blue to white gradient background */
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for the whole section */
+    text-align: center; /* Center the heading */
+  }
+  
+  .patients-heading {
+    font-size: 28px;
+    color: #0c3050;
+    margin-bottom: 90px;
+  }
+  
+  .patient-box-container {
+    display: flex;
+    justify-content: center; /* Center the boxes in the row */
+    gap: 40px; /* Space between the boxes */
+    flex-wrap: wrap; /* Wrap boxes on smaller screens */
+  }
+  
+  .patient-box1 {
+    position: relative;
+    width: 220px; /* Square-shaped box */
+    height: 160px;
+    background-color: #f8f9fa;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for each box */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .patient-box2 {
+    position: relative;
+    width: 180px; /* Square-shaped box */
+    height: 130px;
+    background-color: #f8f9fa;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for each box */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .patient-image1 {
+    position: absolute;
+    top: -50px; /* Adjust this to control how much the image overlaps */
+    left: -55px; /* Position the image outside the box */
+    width: 120px; /* Circle size */
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3); /* More visible shadow for the image circle */
+  }
+  
+  .patient-image1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .patient-image2 {
+    position: absolute;
+    top: -35px; /* Adjust this to control how much the image overlaps */
+    left: -30px; /* Position the image outside the box */
+    width: 80px; /* Circle size */
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3); /* More visible shadow for the image circle */
+  }
+  
+  .patient-image2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .patient-info {
+    text-align: left;
+  }
+  
+  .patient-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #f4b400; /* Yellow color for name */
+    margin-bottom: 5px;
+  }
+  
+  .patient-quote {
+    font-size: 14px;
+    color: #333;
+    text-align: left;
+  }
+  
